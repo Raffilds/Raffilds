@@ -4,9 +4,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&color=c91902&center=true&vCenter=true&multiline=true&lines=Programador+Front-End-Jr."></a>
 </p>
 
-<div align="center">
+<div align="center" style="display: flex">
   <a href="https://github.com/Raffilds">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=raffilds&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raffilds&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffilds&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 <div align="center" style="display: inline_block"><br>
