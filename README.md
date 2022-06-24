@@ -4,11 +4,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&color=c91902&center=true&vCenter=true&multiline=true&lines=Programador+Front-End-Jr."></a>
 </p>
 
-<div align="center" style="display: flex">
-  <a href="https://github.com/Raffilds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raffilds&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffilds&layout=compact&langs_count=7&theme=maroongold"/>
+<div align="center">
+  
+  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=raffilds&show_icons=true&theme=maroongold&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Estatísticas do GitHub de Rafael"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffilds&hide_border=true&layout=compact&langs_count=7&theme=maroongold&locale=pt-br&custom_title=Linguagens mais usadas por Rafael"/>
+    
 </div>
+  
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
