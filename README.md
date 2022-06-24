@@ -1,4 +1,4 @@
-## Olá eu sou o Rafael Aparecido Barboza, intusiasta na area de programação!
+## Olá eu sou o Rafael Barboza, intusiasta na area de programação!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&color=c91902&center=true&vCenter=true&multiline=true&lines=Programador+Front-End-Jr."></a>
