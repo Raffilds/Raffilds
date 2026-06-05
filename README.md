@@ -10,15 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=Raffilds&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-<h1 align="center">Hi 👋, I'm Rafael Barboza</h1>
-
-<h3 align="center">Infrastructure Analyst | DevOps & Cloud Engineering Journey</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=28&duration=2500&pause=1000&color=C91902&center=true&vCenter=true&width=900&lines=Infrastructure+Analyst;DevOps+Engineer;Cloud+Engineer;Linux+Administrator;AWS+%7C+Docker+%7C+Terraform+%7C+Ansible" />
-</p>
 
 ---
 
